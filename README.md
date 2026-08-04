@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,A78BFA&height=200&section=header&text=Arijal%20Ibnu%20Jati&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=UX%20Designer%20%E2%80%94%20Crafting%20delightful%20digital%20experiences&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,A78BFA&height=200&section=header&text=Arijal%20Ibnu%20Jati&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Designer%20%E2%80%94%20Crafting%20delightful%20digital%20experiences&descAlignY=58&descSize=18&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-I'm a **UX Designer** passionate about crafting intuitive and delightful digital experiences. I believe great design happens at the intersection of **user needs**, **business goals**, and **technical feasibility**.
+I'm a **Fullstack Designer** passionate about crafting intuitive and delightful digital experiences. I believe great design happens at the intersection of **user needs**, **business goals**, and **technical feasibility**.
 
 - 🔍 Turning complex problems into simple, elegant solutions
 - 💡 Advocating for users through research and usability testing
